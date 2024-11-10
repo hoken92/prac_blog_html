@@ -15,8 +15,17 @@ footer {
   padding: 1rem 0rem 2rem 0rem;
 }
 
-h1 {
+#title {
   color: tomato;
+  font-size: 70px;
+  font-weight: 100;
+  padding: 0;
+  margin: 5px;
+}
+
+#sub-title {
+  font-weight: 200;
+  margin: 5px;
 }
 
 .list {
